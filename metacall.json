@@ -1,0 +1,5 @@
+{
+  "language_id": "ts",
+  "path": ".",
+  "scripts": ["src/index.ts"]
+}
