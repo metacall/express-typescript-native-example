@@ -7,9 +7,9 @@ This project does not require transpilation, instead, MetaCall loads directly th
 The `package.json` points to the `src/index.ts`:
 ```json
 {
-  "language_id": "node",
+  "language_id": "ts",
   "path": ".",
-  "scripts": ["dist/index.js"]
+  "scripts": ["src/index.ts"]
 }
 ```
 
